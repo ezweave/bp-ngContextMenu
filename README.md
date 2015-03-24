@@ -14,7 +14,7 @@ Script
 ```
 Angular AppScript
 ```
-var app = angular.module('myApp', ['bp-ngContextMenu']);
+var app = angular.module('myApp', ['ngContextMenu']);
 
 ```
 Html  - DOM 
@@ -65,12 +65,9 @@ Demo
 http://plnkr.co/edit/LMr7AN
 
 
-Further angularjs help, articles & other programming stuff at my blog
+Forked From bp-ngContextMenu Project
 -----------------------------------------------------------------------
 
 ``` 
-http://itsmebhavin.wordpress.com
+https://github.com/bapatel1/bp-ngContextMenu
 ```
-
-
-~~~ Bhavin Patel
