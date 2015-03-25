@@ -1,4 +1,4 @@
-var app = angular.module('myApp', ['bp-ngContextMenu']);
+var app = angular.module('myApp', ['ngContextMenu']);
 
 app.controller('Ctrl', function($scope) {
   $scope.clicked = '';

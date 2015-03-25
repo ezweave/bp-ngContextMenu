@@ -1,5 +1,5 @@
 (function(angular) {
-  var ngContextMenu = angular.module('bp-ngContextMenu', []);
+  var ngContextMenu = angular.module('ngContextMenu', []);
 
   ngContextMenu.directive('cellHighlight', function() {
     return {
